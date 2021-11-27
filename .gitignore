@@ -9,7 +9,7 @@ server/youtubelike/public/hot
 server/youtubelike/public/storage
 server/youtubelike/storage/*.key
 server/youtubelike/vendor
-server/youtubelike/storage
+server/youtubelike/storage/*
 Homestead.json
 Homestead.yaml
 npm-debug.log
